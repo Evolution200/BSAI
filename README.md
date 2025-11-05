@@ -52,10 +52,10 @@ brain-science-ai/
 | 4 | 10/09 | Neural Coding 2: Encoding models: GLM | GLM |
 | 5 | 10/16 | Neural Coding 3: Latent Variable Models; DNN; Supervised vs self-supervised models | CNN |
 | 6 | 10/23 | Variability: Transformer; Foundation model; Divisive Normalization; Variability | Transformer |
-| 7 | 10/30 | Representation: Dimensionality Reduction; Manifolds; Capacity; RDM; Representation alignment | Dimensionality Reduction |
-| 8 | 11/06 | Generative Models, BCI (Project Team Finalization) | - |
-| 9 | 11/13 | Linear Dynamical Systems, State Space Models | HMM |
-| 10 | 11/20 | Applications of RNN in Neuroscience | RNN |
+| 7 | 10/30 | Representation: Dimensionality Reduction | Dimensionality Reduction |
+| 8 | 11/06 | Representation: Manifolds; RDM; Representation alignment | Project Team Finalization |
+| 9 | 11/13 | Linear Dynamical Systems; Nonlinear Dynamical System; Chaos | LDS |
+| 10 | 11/20 | RNN and State Space Models | RNN or HMM |
 | 11 | 11/27 | Network Neuroscience | NetworkX Analysis |
 | 12 | 12/04 | Invited Speaker: Continual learning | - |
 | 13 | 12/11 | Invited Speaker: Bayesian Theory in Neuroscience | - |
