@@ -32,3 +32,8 @@ __pycache__/
 *.pyo
 *.pyd
 .Python
+
+dataset/
+THINGS_Data/
+
+*.zip
