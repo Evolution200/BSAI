@@ -37,3 +37,7 @@ dataset/
 THINGS_Data/
 
 *.zip
+*.csv
+*.json
+*templates*
+*.nwb
