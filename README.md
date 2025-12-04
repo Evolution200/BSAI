@@ -51,15 +51,15 @@ brain-science-ai/
 | 3 | 09/28 (Sun) | Neural Coding 1: Foundation; Information Theory; Efficient Coding | - |
 | 4 | 10/09 | Neural Coding 2: Encoding models: GLM | GLM |
 | 5 | 10/16 | Neural Coding 3: Latent Variable Models; DNN; Supervised vs self-supervised models | CNN |
-| 6 | 10/23 | Variability: Transformer; Foundation model; Divisive Normalization; Variability | Transformer |
+| 6 | 10/23 | Transformer; Foundation model; Divisive Normalization; Variability | Transformer |
 | 7 | 10/30 | Representation: Dimensionality Reduction | Dimensionality Reduction |
 | 8 | 11/06 | Representation: Manifolds; RDM; Representation alignment | Project Team Finalization |
-| 9 | 11/13 | Linear Dynamical Systems; Nonlinear Dynamical System; Chaos | LDS |
-| 10 | 11/20 | RNN and State Space Models | RNN or HMM |
-| 11 | 11/27 | Network Neuroscience | NetworkX Analysis |
-| 12 | 12/04 | Invited Speaker: Continual learning | - |
-| 13 | 12/11 | Invited Speaker: Bayesian Theory in Neuroscience | - |
-| 14 | 12/18 | Student-led Discussion | - |
+| 9 | 11/13 | Dynamical Systems; Continuous attractors; Hopfield network | LDS |
+| 10 | 11/20 | RNN and State Space Models | HMM |
+| 11 | 11/27 | Network: low rank RNN and motifs | - |
+| 12 | 12/04 | Continual learning | - |
+| 13 | 12/11 | Bayesian Inference and its applications in Neuroscience | - |
+| 14 | 12/18 | AI agent for science & Project presentation | - |
 | 15 | 12/25 | Project Presentations | - |
 
 ## Getting Started
@@ -98,10 +98,10 @@ Weekly programming tutorials are located in the `tutorials/` directory:
 - **Week 2:** Python for neural data access
 - **Week 4:** Generalized Linear Models (GLM)
 - **Week 5:** Convolutional Neural Networks (CNN)
-- **Week 6:** Dimensionality reduction techniques
-- **Week 9:** Hidden Markov Models (HMM)
-- **Week 10:** Recurrent Neural Networks (RNN)
-- **Week 11:** Network analysis with NetworkX
+- **Week 6:** Transformer
+- **Week 7:** Dimensionality reduction 
+- **Week 9:** Linear dynamical system (LDS)
+- **Week 10:** Hidden Markov Model (HMM)
 
 Each tutorial includes:
 - Jupyter notebooks with step-by-step instructions
@@ -173,6 +173,7 @@ This course builds upon resources and inspiration from:
 - GLM tutorials from Neuromatch Academy
 - COSYNE tutorials
 - CORnet and Brain-score
+- SSM package by Scott Linderman
 
 ---
 
